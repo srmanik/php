@@ -1,3 +1,7 @@
+/**
+
+Aassociative array in Ascii Table(Command Line view)
+**/
 <?php
 $associativeArray = array(
     array(
