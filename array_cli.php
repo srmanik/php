@@ -1,6 +1,7 @@
 /**
-
-Covert aassociative array into Ascii Table (Command Line view)
+*
+* Covert aassociative array into Ascii Table (Command Line view)
+*
 **/
 <?php
 $associativeArray = array(
