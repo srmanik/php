@@ -1,3 +1,8 @@
+/**
+*
+* Covert aassociative array into Ascii Table (Browser view)
+*
+**/
 <style>
     span{
         padding: 5px;
